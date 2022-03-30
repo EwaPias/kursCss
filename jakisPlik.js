@@ -1,0 +1,1 @@
+const pom = document.querySelector('h1');
